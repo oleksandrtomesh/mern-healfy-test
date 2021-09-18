@@ -1,0 +1,5 @@
+{
+    "port": "5000",
+    "jwtSecret": "healfy test mern",
+    "mongoUri": "mongodb+srv://olek:12345qwert@cluster0.mc6sz.mongodb.net/app?retryWrites=true&w=majority"
+}

@@ -1,0 +1,15 @@
+@import '~materialize-css/dist/css/materialize.min.css';
+
+
+.text-center{
+    text-align: center;
+}
+
+.error{
+    font-size: 1rem;
+    color: red;
+}
+
+.margin-right{
+    margin-right: 1rem;
+}
